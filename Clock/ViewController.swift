@@ -10,8 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
-    
     fileprivate let isHome = false
     
     fileprivate enum State {
